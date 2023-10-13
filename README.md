@@ -39,11 +39,11 @@
 <br>
 <ul>
    <li>
-      <a href="jnf.asm@gmail.com" target="blank">
+      <a href="mailto:jnf.asm@gmail.com" target="blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=jnf.asm%40gmail.com">
    </li>
    <li>
-      <a href="mailto:https://www.linkedin.com/in/jeniferasm/"target="blank">
+      <a href="https://www.linkedin.com/in/jeniferasm/"target="blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjeniferasm%2F">
    </li>
 </ul>
