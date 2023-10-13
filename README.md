@@ -43,7 +43,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=jnf.asm%40gmail.com">
    </li>
    <li>
-      <a href="https://www.linkedin.com/in/jeniferasm/"target="_blank">
+      <a href="https://www.linkedin.com/in/jeniferasm/" target="_blank">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjeniferasm%2F">
    </li>
 </ul>
