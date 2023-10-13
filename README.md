@@ -34,14 +34,22 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 
 <h2><b>Connect with me!</b></h2>
+<br>
+<ul>
+   <li>
+      <a href="jnf.asm@gmail.com" target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=jnf.asm%40gmail.com">
+   </li>
+   <li>
+      <a href=""target="_blank">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjeniferasm%2F">
+   </li>
+</ul>
 
-    ![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjeniferasm%2F)
-    ![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=jnf.asm%40gmail.com)
-    
 
-✨ by Jenifer Miranda
-
+<br><br>
 ##
+<h5 align="center">✨ by Jenifer Miranda</h5>
+
