@@ -12,7 +12,14 @@
 - Currently learning Back-end Development
 - I’m currently open for a new job opportunity, this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
 
-<br><br>
+<br>
+<!-- GITHUB STATUS -->
+<div id='lojc' align="center">
+  <a href="https://github.com/jenifermiranda?tab=repositories">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jenifermiranda&show_icons=true&theme=white&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifermiranda&layout=compact&theme=chartreuse-white"/> 
+</div>
+<br>
 
 <h2><b>Languages, Technologies and knowledge</b></h2>
 
