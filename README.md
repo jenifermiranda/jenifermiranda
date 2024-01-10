@@ -10,7 +10,7 @@
 - A communicator with a great interest in technology
 - Passionate about traveling and discovering new cultures
 - Currently learning Back-end Development
-- I’m currently open for a new job opportunity, this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
+- Open for a new job opportunity, this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
 
 <br>
 <!-- GITHUB STATUS -->
