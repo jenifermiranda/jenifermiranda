@@ -16,8 +16,8 @@
 <!-- GITHUB STATUS -->
 <div id='lojc' align="center">
   <a href="https://github.com/jenifermiranda?tab=repositories">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jenifermiranda&show_icons=true&theme=white&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifermiranda&layout=compact&theme=chartreuse-white"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jenifermiranda&show_icons=true&theme=shadow_red&include_all_commits=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifermiranda&layout=compact&theme=chartreuse-shadow_red"/> 
 </div>
 <br>
 
