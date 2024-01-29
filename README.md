@@ -17,7 +17,7 @@
 <div id='lojc' align="center">
   <a href="https://github.com/jenifermiranda?tab=repositories">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=jenifermiranda&show_icons=true&theme=shadow_red&include_all_commits=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifermiranda&layout=compact&theme=chartreuse-shadow_red"/> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenifermiranda&layout=compact&theme=shadow_red"/> 
 </div>
 <br>
 
@@ -48,7 +48,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin/jeniferasm-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjeniferasm%2F">
    </li>
 </ul>
-
 
 <br><br>
 ##
