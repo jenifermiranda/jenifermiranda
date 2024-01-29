@@ -7,10 +7,10 @@
 
 <br>
 
-- Web development student with great interest in technology
-- Passionate about traveling and discovering new cultures
-- Currently learning Back-end Development
-- Open for a new job opportunity, this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
+- Web development student with a great interest in technology.
+- Passionate about traveling and discovering new cultures.
+- Currently learning Python.
+- Open to new job opportunities; this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
 
 <br>
 <!-- GITHUB STATUS -->
