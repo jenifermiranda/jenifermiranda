@@ -26,15 +26,17 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Typescript](https://img.shields.io/badge/typescrypt-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
+   ![Typescript](https://img.shields.io/badge/Typescrypt%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
-   ![Static Badge](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%23339933&color=%23339933)
-   ![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
-   ![Static Badge](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=white&labelColor=%232496ED&color=%232496ED)
+   ![Node](https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/mysql%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+   ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   
 
 <br>
 <h2><b>Connect with me!</b></h2>
