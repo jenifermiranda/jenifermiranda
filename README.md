@@ -7,7 +7,7 @@
 
 <br>
 
-- Web development student with a great interest in technology.
+- Fullstack Web developer with a great interest in technology.
 - Passionate about traveling and discovering new cultures.
 - Currently learning Python.
 - Open to new job opportunities; this is [my Linkedin](https://www.linkedin.com/in/jeniferasm/)
@@ -26,7 +26,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Static Badge](https://img.shields.io/badge/typescrypt-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
+   ![Typescript](https://img.shields.io/badge/typescrypt-white?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue&color=blue)
    ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)
    ![Static Badge](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%23339933&color=%23339933)
    ![Static Badge](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1&color=%234479A1)
